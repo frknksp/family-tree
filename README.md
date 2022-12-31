@@ -9,7 +9,7 @@ This project is a program that reads a list of people from an Excel file and cre
 
 ## Running the program
 
-To run the program, compile all the .java files and run the `Main` class. The program will prompt you to enter the path to the Excel file containing the data. Make sure the file is in the correct format (see below for details).
+To run the program, compile all the .java files and run the `Main` class. It is necessary to give the excel file path from the main class then follow the instructions to make your selections.
 
 ## Excel file format
 
